@@ -24,7 +24,7 @@ function App() {
     <>
       <GlobalStyles />
       <div className="container">
-        <Router basename="/craftAppFront" >
+        <Router basename="/CraftApp" >
 
           <MainNavStyled >
             <Link to="/" onClick={() => setSearchTerm('')} >Home</Link>

@@ -14,7 +14,7 @@ const GlobalStyles = createGlobalStyle`
 
 body{
     height: 100vh;
-    background-image: url('../craftAppFront/pozadin4.jpg');
+    background-image: url('../CraftApp/pozadin4.jpg');
     background-size: cover;
 }
 

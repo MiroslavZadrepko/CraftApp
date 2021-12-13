@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/CraftApp/static/js/main.e2aed27b.chunk.js",
+    "main.js.map": "/CraftApp/static/js/main.e2aed27b.chunk.js.map",
+    "runtime-main.js": "/CraftApp/static/js/runtime-main.9e5880ec.js",
+    "runtime-main.js.map": "/CraftApp/static/js/runtime-main.9e5880ec.js.map",
+    "static/js/2.276928d1.chunk.js": "/CraftApp/static/js/2.276928d1.chunk.js",
+    "static/js/2.276928d1.chunk.js.map": "/CraftApp/static/js/2.276928d1.chunk.js.map",
+    "index.html": "/CraftApp/index.html",
+    "static/js/2.276928d1.chunk.js.LICENSE.txt": "/CraftApp/static/js/2.276928d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e5880ec.js",
+    "static/js/2.276928d1.chunk.js",
+    "static/js/main.e2aed27b.chunk.js"
+  ]
+}

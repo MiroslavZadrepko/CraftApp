@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/CraftApp/static/js/main.3dfa97ba.chunk.js",
-    "main.js.map": "/CraftApp/static/js/main.3dfa97ba.chunk.js.map",
+    "main.js": "/CraftApp/static/js/main.fd968b70.chunk.js",
+    "main.js.map": "/CraftApp/static/js/main.fd968b70.chunk.js.map",
     "runtime-main.js": "/CraftApp/static/js/runtime-main.9e5880ec.js",
     "runtime-main.js.map": "/CraftApp/static/js/runtime-main.9e5880ec.js.map",
     "static/js/2.276928d1.chunk.js": "/CraftApp/static/js/2.276928d1.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.9e5880ec.js",
     "static/js/2.276928d1.chunk.js",
-    "static/js/main.3dfa97ba.chunk.js"
+    "static/js/main.fd968b70.chunk.js"
   ]
 }

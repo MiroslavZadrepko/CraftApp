@@ -1,3 +1,5 @@
+## NOTICE: after Heroku stoped free services, this app is not funkcional. I am reworking it with Mongo atm. 
+
 # CraftApp
 Simple CRUD app.
 
